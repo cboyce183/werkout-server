@@ -1,3 +1,4 @@
+// I should turn this into a map
 module.exports = [
   //Chest
  {id: 1, name: 'Flat Bench press', type: 'Compound', targets: 'csa'},
